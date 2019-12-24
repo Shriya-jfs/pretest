@@ -31,10 +31,4 @@ System.out.println("the reverse string is: "+rev);
 
 }
 
-// for vowel count
 
-//check individual character for vowels
-
-//if vowel present the put it into another variable
-
-//print the value
